@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "cstdio": "c",
+        "limits": "c",
+        "format.h": "c",
+        "the_order_of_the_stack-declare.h": "c",
+        "double_linked_list-declare.h": "c",
+        "seqqueue.h": "c",
+        "string_declare.h": "c",
+        "declare.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.intelliSenseEngineFallback": "Disabled"
+}
